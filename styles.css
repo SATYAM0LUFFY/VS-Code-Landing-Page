@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+    
+}
+.toplink{
+    color: gray;
+    cursor: pointer;
+    padding-left: 10;
+}
+.header{
+    font-size:50;
+    padding-bottom: 7;
+}
+button{
+    color: white;
+    background-color: cornflowerblue;
+}
